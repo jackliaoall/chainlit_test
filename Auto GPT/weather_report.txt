@@ -1,0 +1,6 @@
+Taichung City, Taichung City, Taiwan Weather Forecast:
+
+- Current conditions: [current conditions]
+- Wind: [wind conditions]
+- Air quality: [air quality conditions]
+- Forecast for the next 3 days: [forecast for the next 3 days]
